@@ -1,0 +1,11 @@
+{
+  "etudiants": [
+    {
+      "id": 1,
+      "nom": "ben attia",
+      "prenom": "souad",
+      "age": 21,
+      "imageUrl": "blob:http://localhost:64938/fa059143-dd87-41c4-967c-b2db62f40d8e"
+    }
+  ]
+}
